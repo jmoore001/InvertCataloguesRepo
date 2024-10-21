@@ -1,9 +1,10 @@
 To use this app, simply clone this repo and launch the .exe called "Invert Catalogue Creator"
 
-In order for the app to do anything, your computer will need to be running the magnifier at the same time. Just type 'magnifier' into your windows search bar.
+In order for the app to do anything, your computer will need to be running the magnifier at the same time. This is because the app uses the invert functin of the magnifier to invert the colors of your whole computer to simulate dark mode while in catalogue creator. To open magnifier, just type 'magnifier' into your windows search bar.
 
 The first time you run the magnifier, you may need to set up the magnifier so that it is displaying your screen at 100% instead of at a higher percentage.
 
+If you want to stop the app, just open task manager and end the task called "Invert Catalogue Creator", or close your magnifier.
 
 If the inverting ever gets messed up, just close the "Invert Catalogue Creator" app from task manager and restart it.
 
