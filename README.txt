@@ -1,4 +1,4 @@
-To use this app, simply launch the .exe called "Invert Catalogue Creator"
+To use this app, simply clone this repo and launch the .exe called "Invert Catalogue Creator"
 
 In order for the app to do anything, your computer will need to be running the magnifier at the same time. Just type 'magnifier' into your windows search bar.
 
